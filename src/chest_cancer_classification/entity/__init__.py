@@ -1,1 +1,2 @@
 from .config_entity import DataIngestionConfig
+from .config_entity import PrepareBaseModelConfig
