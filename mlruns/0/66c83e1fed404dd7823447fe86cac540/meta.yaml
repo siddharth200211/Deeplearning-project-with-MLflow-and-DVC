@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91902/Documents/Deeplearning-project-with-MLflow-and-DVC/mlruns/0/66c83e1fed404dd7823447fe86cac540/artifacts
+end_time: 1730709894406
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 66c83e1fed404dd7823447fe86cac540
+run_name: classy-calf-230
+run_uuid: 66c83e1fed404dd7823447fe86cac540
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730709886735
+status: 4
+tags: []
+user_id: '91902'

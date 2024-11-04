@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91902/Documents/Deeplearning-project-with-MLflow-and-DVC/mlruns/0/2f7f434c71a4455c83ec132903047153/artifacts
+end_time: 1730711796977
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f7f434c71a4455c83ec132903047153
+run_name: big-gnat-986
+run_uuid: 2f7f434c71a4455c83ec132903047153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730711789658
+status: 3
+tags: []
+user_id: '91902'

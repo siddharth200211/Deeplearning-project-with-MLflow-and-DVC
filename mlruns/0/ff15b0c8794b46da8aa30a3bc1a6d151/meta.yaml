@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91902/Documents/Deeplearning-project-with-MLflow-and-DVC/mlruns/0/ff15b0c8794b46da8aa30a3bc1a6d151/artifacts
+end_time: 1730711535030
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ff15b0c8794b46da8aa30a3bc1a6d151
+run_name: monumental-lynx-620
+run_uuid: ff15b0c8794b46da8aa30a3bc1a6d151
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730711527277
+status: 4
+tags: []
+user_id: '91902'

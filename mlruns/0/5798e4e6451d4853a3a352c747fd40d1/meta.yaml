@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/91902/Documents/Deeplearning-project-with-MLflow-and-DVC/mlruns/0/5798e4e6451d4853a3a352c747fd40d1/artifacts
+end_time: 1730709323352
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5798e4e6451d4853a3a352c747fd40d1
+run_name: hilarious-wasp-579
+run_uuid: 5798e4e6451d4853a3a352c747fd40d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730709315444
+status: 4
+tags: []
+user_id: '91902'
