@@ -48,7 +48,7 @@ The primary goal of this project is to classify chest cancer images as either *n
 
 ## Future Enhancements
 
-- Deploymen*: While deployment on AWS was initially planned, it remains a potential future enhancement.
+- Deployment: While deployment on AWS was initially planned, it remains a potential future enhancement.
 
 ## License
 
